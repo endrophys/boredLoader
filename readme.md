@@ -20,4 +20,4 @@
 - After compilation, you'll find the compiled bot at target/release/client.exe. That is your compiled bot.
 
 ## Contact
-- https://t.me/botnetloader
+- https://t.me/endrophys
